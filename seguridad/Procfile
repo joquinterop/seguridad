@@ -1,0 +1,4 @@
+
+
+web: gunicorn seguridad.wsgi:application --log-file -
+
